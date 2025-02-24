@@ -1,6 +1,13 @@
 package main
 
-func main() {
-	println("Hello World dev")
-	println("merge")
-}
+/*
+git branch dev
+git checkout dev
+* change *
+
+git pull origin main
+git add .
+git commit -m "_"
+git push origin dev
+
+*/
